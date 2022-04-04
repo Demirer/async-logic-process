@@ -40,7 +40,7 @@ class Engineer : Job(){
 
 class Doctor : Job(){
     fun work(){
-        revenue += salary
+        revenue += salary*2
     }
     fun study(){
         salary += 2000
