@@ -1,4 +1,4 @@
-package inheritance
+package constructor
 
 fun main(){
     var user = UserAccount("User",110)
